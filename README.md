@@ -29,10 +29,6 @@ web site</a>:
 </ol>
 
 ## Making Plots
-The goal was to examine how household energy usage
-varies over a 2-day period in February, 2007. The task was to
-create the plots below, all of which were constructed
-using the base plotting system.
 The plots should look like the plots from this GitHub repository:
 [https://github.com/rdpeng/ExData_Plotting1](https://github.com/rdpeng/ExData_Plotting1)
 
