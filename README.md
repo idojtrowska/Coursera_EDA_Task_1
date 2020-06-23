@@ -34,7 +34,7 @@ The plots should look like the plots from this GitHub repository:
 
 ## Preparing Data
 ```
-#read it into a table and create a new table with the date and time
+#read txt as a table and create a new table with the date and time
 tbl <- read.table("household_power_consumption.txt", dec = ".", stringsAsFactors = FALSE,
                   colClasses = c("character", "character", "numeric", "numeric", "numeric", "numeric", "numeric", "numeric", "numeric"), 
                   header = TRUE, sep = ";", na.strings = "?")
