@@ -1,7 +1,6 @@
 library(tidyverse)
-library(dplyr)
-library(lattice)
-library(ggplot2)
+library(tools)
+
 
 getwd()
 setwd("C:/Users/Izabela/Desktop/exdata_data_household_power_consumption")
